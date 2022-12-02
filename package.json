@@ -1,0 +1,25 @@
+{
+  "name": "soot-oatmeal",
+  "version": "1.0.0",
+  "description": "Soot Oatmeal   ============",
+  "main": "p5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quargsgreene/soot-oatmeal.git"
+  },
+  "author": "Quargs Greene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quargsgreene/soot-oatmeal/issues"
+  },
+  "homepage": "https://github.com/quargsgreene/soot-oatmeal#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-p5js": "^1.0.0"
+  }
+}

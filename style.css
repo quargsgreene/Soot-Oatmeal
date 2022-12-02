@@ -1,7 +1,31 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: black;
+  color: white;
+  font-family: 'Monaco';
 }
 canvas {
   display: block;
+}
+
+.invisible{
+  color: rgba(0,0,0,0);
+  font-size:1%;
+  position:absolute;
+  z-index:-1;
+}
+
+.sentence {
+  color: rgb(228, 212, 255);
+}
+
+.vocals{
+  border: 2px outset rgb(132, 0, 255);
+  background-color: rgb(132, 0, 255);
+}
+
+.tone-generator{
+  border: 2px outset rgb(2, 150, 2);
+  background-color: rgb(2, 150, 2);
 }
